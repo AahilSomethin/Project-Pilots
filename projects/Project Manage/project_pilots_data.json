@@ -1,0 +1,109 @@
+[
+  {
+    "id": "a1f2c3d4-001",
+    "name": "Website Redesign",
+    "tasks": [
+      {
+        "id": "t-101",
+        "title": "Define project scope",
+        "owner": "Aahil",
+        "start": "2026-01-20",
+        "due": "2026-01-22",
+        "status": "Done",
+        "priority": "High",
+        "notes": "Scope approved by stakeholders."
+      },
+      {
+        "id": "t-102",
+        "title": "Create wireframes",
+        "owner": "Aahil",
+        "start": "2026-01-23",
+        "due": "2026-01-26",
+        "status": "In Progress",
+        "priority": "Medium",
+        "notes": "Homepage and dashboard screens."
+      },
+      {
+        "id": "t-103",
+        "title": "Client feedback review",
+        "owner": "Client",
+        "start": "2026-01-27",
+        "due": "2026-01-28",
+        "status": "Backlog",
+        "priority": "Low",
+        "notes": ""
+      }
+    ],
+    "milestones": [
+      {
+        "id": "m-201",
+        "title": "Design Approval",
+        "due": "2026-01-28",
+        "status": "Pending"
+      },
+      {
+        "id": "m-202",
+        "title": "Development Start",
+        "due": "2026-02-01",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "b2e4f6a8-002",
+    "name": "Mobile App MVP",
+    "tasks": [
+      {
+        "id": "t-201",
+        "title": "Technical requirements gathering",
+        "owner": "Aahil",
+        "start": "2026-01-18",
+        "due": "2026-01-21",
+        "status": "Done",
+        "priority": "High",
+        "notes": "Initial MVP scope defined."
+      },
+      {
+        "id": "t-202",
+        "title": "API design draft",
+        "owner": "Backend Team",
+        "start": "2026-01-22",
+        "due": "2026-01-25",
+        "status": "Blocked",
+        "priority": "High",
+        "notes": "Waiting on authentication decision."
+      }
+    ],
+    "milestones": [
+      {
+        "id": "m-301",
+        "title": "MVP Feature Freeze",
+        "due": "2026-02-05",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "id": "7759a593-6ad3-4dd2-a0be-96afb6efbb95",
+    "name": "prototype",
+    "tasks": [],
+    "milestones": []
+  },
+  {
+    "id": "ff76256b-7c6f-4ca1-b725-2ab7139d9ee5",
+    "name": "test",
+    "tasks": [
+      {
+        "id": "03e26ec1-576a-41fb-a6fe-3c1bf8a24a37",
+        "title": "hhgv",
+        "owner": "You",
+        "start": "2026-03-03",
+        "due": "",
+        "status": "Planned",
+        "priority": "Medium",
+        "notes": ""
+      }
+    ],
+    "milestones": []
+  }
+]
